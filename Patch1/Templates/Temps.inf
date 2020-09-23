@@ -1,0 +1,6 @@
+//Warning: Do not Change anything in this folder...
+//Code: vb6
+//Thank u :-) IEHJ
+[Control Sheet]
+use=produce exported reports for the system.
+path=applicationDir\Templates\Controlsheet.xls
