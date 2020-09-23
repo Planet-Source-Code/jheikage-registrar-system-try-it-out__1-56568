@@ -1,0 +1,6 @@
+Echo Off
+Echo ISAP TECH HELP FILE LOADING....
+ECHO Starting Document
+start c:\isapmcnp\patch1\help\prj_Help\PRJhelp.exe
+echo End...
+Exit

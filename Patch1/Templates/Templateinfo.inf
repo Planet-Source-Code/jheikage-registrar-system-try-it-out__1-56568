@@ -1,0 +1,15 @@
+//Don't change anything here....
+[ControlSheet.xls]
+SY=B5
+SEM =D5
+SUBJECT=B7
+UNITS=E7
+TEACHER=B9
+SCHEDULE=B10
+IDNO=A12>
+STUDENT=B12>
+COURSE=C12>
+[GradingSys.xls]
+BEGINat=A1>
+NOPRELIMS=R2,V2,Z2,AD2
+CHECK=A1,B1,C1,AH1,AH2
